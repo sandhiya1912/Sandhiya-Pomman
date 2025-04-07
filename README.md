@@ -1,6 +1,6 @@
 # Sandhiya Pomman  
 
-## 🚀 My Projects  
+## My Projects  
 
 Here are my two main projects:  
 
