@@ -12,4 +12,4 @@ A Java-based smart grid system that optimizes energy consumption, with simulatio
 A full-stack project using AngularJS, Bootstrap, Node.js, and Express.js for generating internship certificates.  
 🔗 **GitHub Repository:** [MEAN Stack Certificate Generator](https://github.com/sandhiya1912/Angular-intern-project)  
 
-**Explore more on my GitHub:** [github.com/sandhiya1912](https://github.com/sandhiya1912)  
+**Here is my GitHub link:** [github.com/sandhiya1912](https://github.com/sandhiya1912)  
