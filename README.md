@@ -1,4 +1,4 @@
-# Sandhiya Pomman  
+# Sandhiya Pomman B.E.CSE
 
 ## My Projects  
 
