@@ -10,7 +10,7 @@ A Java-based smart grid system that optimizes energy consumption, with simulatio
 
 ### 2️. FULL Stack Internship Certificate Generator  
 A full-stack project using AngularJS, Bootstrap, Node.js, and Express.js for generating internship certificates.  
-🔗 **GitHub Repository:** [MEAN Stack Certificate Generator](https://github.com/sandhiya1912/Angular-intern-project)  
+🔗 **GitHub Repository:** [Full Stack Certificate Generator](https://github.com/sandhiya1912/Angular-intern-project)  
 
 ### 3️. Complaint Vision – Grievance Redressal System  
 A Flutter application that allow user to file, track complaints and officers to resolving citizen complaints, backed by Firebase.  
