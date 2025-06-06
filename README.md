@@ -6,7 +6,7 @@ Here are my main projects:
 
 ### 1️. Smart Grid and Energy Optimization System  
 A Java-based smart grid system that optimizes energy consumption, with simulations using Python libraries.  
-🔗 **GitHub Repository:** [Smart Grid System](https://github.com/sandhiya1912/Smart_Grid_System)  
+🔗 **GitHub Repository:** [Smart Grid System](https://github.com/sandhiya1912/Smart_Grid_System)
 
 ### 2. Complaint Vision – AI-based Complaint Management System  
 A Flutter application that allow user to file, track complaints and officers to resolving citizen complaints, backed by Firebase.  
