@@ -16,7 +16,7 @@ A Spring Boot microservices-based travel agency application built in Java and co
 
 ## 🧑‍🏫 Intern Projects
 
-### [Foundation of Artificial Intelligence - AI/ML Applications using Python](https://github.com/sandhiya1912/AL-ML-concepts)  
+### [Artificial Intelligence - AI/ML Applications using Python](https://github.com/sandhiya1912/AL-ML-concepts)  
 Hands-on AI/ML mini-projects and notebooks developed during my AI Foundation internship using Python.
 
 ### [Full Stack Internship Certificate Generator](https://github.com/sandhiya1912/Angular-intern-project)  
