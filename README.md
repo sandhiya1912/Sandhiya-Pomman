@@ -1,4 +1,4 @@
-# 👩‍💻 Sandhiya Pomman — B.E. CSE
+# 👩‍💻 Sandhiya P — B.E. CSE
 
 ## 💼 My Projects
 
@@ -7,7 +7,7 @@ Here are some of the key projects I’ve worked on:
 ### [1️. Smart Grid and Energy Optimization System](https://github.com/sandhiya1912/Smart_Grid_System)  
 A Java-based smart grid system that optimizes energy consumption, with simulations using Python libraries.
 
-### [2. Smart MCQ Generator](https://github.com/sandhiya1912/ComplaintVision)  
+### [2. Smart MCQ Generator](https://github.com/sandhiya1912/Quiz-Generator)  
 An MCQ generator that processes text, PDFs, and images using Gen-AI and Blip transformers.
 
 ### [3. Travel Agency App Microservices](https://github.com/sandhiya1912/TravelAgencyMicroservices)  
