@@ -1,28 +1,27 @@
-# Sandhiya Pomman B.E.CSE
+# 👩‍💻 Sandhiya Pomman — B.E. CSE
 
-## My Projects  
+## 💼 My Projects
 
-Here are my main projects:
+Here are some of the key projects I’ve worked on:
 
-### 1️. Smart Grid and Energy Optimization System  
-A Java-based smart grid system that optimizes energy consumption, with simulations using Python libraries.  
-🔗 **GitHub Repository:** [Smart Grid System](https://github.com/sandhiya1912/Smart_Grid_System)
+### [1️. Smart Grid and Energy Optimization System](https://github.com/sandhiya1912/Smart_Grid_System)  
+A Java-based smart grid system that optimizes energy consumption, with simulations using Python libraries.
 
-### 2. Complaint Vision – AI-based Complaint Management System  
-A Flutter application that allow user to file, track complaints and officers to resolving citizen complaints, backed by Firebase.  
-🔗 **GitHub Repository:** [Complaint Vision](https://github.com/sandhiya1912/ComplaintVision)  
+### [2. Smart MCQ Generator](https://github.com/sandhiya1912/ComplaintVision)  
+An MCQ generator that processes text, PDFs, and images using Gen-AI and Blip transformers.
 
-### 3. Travel Agency App Microservices  
-A Spring Boot microservices-based travel agency application using Java and containerized with docker.  
-🔗 **GitHub Repository:** [Travel Agency Microservices](https://github.com/sandhiya1912/TravelAgencyMicroservices)  
+### [3. Travel Agency App Microservices](https://github.com/sandhiya1912/TravelAgencyMicroservices)  
+A Spring Boot microservices-based travel agency application built in Java and containerized with Docker.
 
-### Intern Projects  
 
-### Foundation of Artificial Intelligence - AI/ML Applications using Python
-🔗 **GitHub Repository:** [AI-ML Applications](https://github.com/sandhiya1912/AL-ML-concepts). 
+## 🧑‍🏫 Intern Projects
 
-### FULL Stack Internship Certificate Generator  
-A full-stack project using AngularJS, Bootstrap, Node.js, and Express.js for generating internship certificates.  
-🔗 **GitHub Repository:** [Full Stack Certificate Generator](https://github.com/sandhiya1912/Angular-intern-project)
+### [Foundation of Artificial Intelligence - AI/ML Applications using Python](https://github.com/sandhiya1912/AL-ML-concepts)  
+Hands-on AI/ML mini-projects and notebooks developed during my AI Foundation internship using Python.
 
-**Here is my GitHub link:** [github.com/sandhiya1912](https://github.com/sandhiya1912)
+### [Full Stack Internship Certificate Generator](https://github.com/sandhiya1912/Angular-intern-project)  
+A full-stack application built with AngularJS, Bootstrap, Node.js, and Express.js for generating internship certificates.
+
+
+## 🔗 GitHub Profile  
+➡️ [github.com/sandhiya1912](https://github.com/sandhiya1912)
