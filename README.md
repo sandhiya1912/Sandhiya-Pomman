@@ -8,7 +8,7 @@ Here are some of the key projects I’ve worked on:
 A Java-based smart grid system that optimizes energy consumption, with simulations using Python libraries.
 
 ### [2. Smart MCQ Generator](https://github.com/sandhiya1912/Quiz-Generator)  
-An MCQ generator that processes text, PDFs, and images using Gen-AI and Blip transformers.
+An MCQ generator that processes text, PDFs, and images using Gen-AI and Blip transformers using React.js and flask.
 
 ### [3. Travel Agency App Microservices](https://github.com/sandhiya1912/TravelAgencyMicroservices)  
 A Spring Boot microservices-based travel agency application built in Java and containerized with Docker.
