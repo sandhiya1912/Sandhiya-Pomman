@@ -1,4 +1,4 @@
-# 👩‍💻 Sandhiya P — B.E. CSE
+# 👩‍💻 Sandhiya P — B.E. CSE, Thiagarajar College of Engineering
 
 ## 💼 My Projects
 
