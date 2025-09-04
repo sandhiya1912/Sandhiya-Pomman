@@ -26,7 +26,7 @@ Hands-on AI/ML mini-projects and notebooks developed during my AI Foundation int
 A full-stack application built with AngularJS, Bootstrap, Node.js, and Express.js for generating internship certificates.  
 **Tech Stack:** 🅰️ AngularJS | 🎨 Bootstrap | 🌐 Node.js | ⚡ Express.js | 🐬 MysQL
 
-**Publication:**
+** 📑 Publication  **
 
 ### [Complaint Vision](https://github.com/sandhiya1912/ComplaintVision)  
 An AI-powered, privacy-centric complaint monitoring system leveraging Zero-Knowledge Proofs (ZKP), Geolocation services, and automated complaint classification and prioritization to enhance transparency and efficiency.  
