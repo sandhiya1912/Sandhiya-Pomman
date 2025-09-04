@@ -10,11 +10,11 @@ A Java-based smart grid system that optimizes energy consumption, with simulatio
 
 ### [2. Travel Agency App Microservices](https://github.com/sandhiya1912/TravelAgencyMicroservices)  
 A Spring Boot microservices-based travel agency application built in Java and containerized with Docker.  
-**Tech Stack:** ☕ Java | 🏗️ Spring Boot | 🐳 Docker
+**Tech Stack:**  ⚛️ React.js | 🌐 Node.js | ⚡ Express.js | 🍃 MongoDB | 📨 RabbitMQ | 🐳 Docker
 
 ### [3. Smart MCQ Generator](https://github.com/sandhiya1912/Quiz-Generator)  
 An MCQ generator that processes text, PDFs, and images using Gen-AI and Blip transformers using React.js and Flask.  
-**Tech Stack:** ⚛️ React.js | 🐍 Flask | 🤖 Gen-AI | 📄 PDF Processing
+**Tech Stack:** ⚛️ React.js | 🌊 Tailwind CSS | 🐍 Flask | 🐬MySQL 
 
 ## 🧑‍🏫 Intern Projects
 
@@ -24,7 +24,7 @@ Hands-on AI/ML mini-projects and notebooks developed during my AI Foundation int
 
 ### [Full Stack Internship Certificate Generator](https://github.com/sandhiya1912/Angular-intern-project)  
 A full-stack application built with AngularJS, Bootstrap, Node.js, and Express.js for generating internship certificates.  
-**Tech Stack:** 🅰️ AngularJS | 🎨 Bootstrap | 🌐 Node.js | ⚡ Express.js
+**Tech Stack:** 🅰️ AngularJS | 🎨 Bootstrap | 🌐 Node.js | ⚡ Express.js | 🐬 MysQL
 
 Publication:
 
