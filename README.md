@@ -2,7 +2,7 @@
 
 ## 💼 My Projects
 
-Here are some of the key projects I’ve worked on:
+Here are some of the projects I’ve worked on:
 
 ### [1️. Smart Grid and Energy Optimization System](https://github.com/sandhiya1912/Smart_Grid_System)  
 A Java-based smart grid system that optimizes energy consumption, with simulations using Python libraries.  
@@ -14,7 +14,7 @@ An MCQ generator that processes text, PDFs, and images using Gen-AI and Blip tra
 
 ### [3. Travel Agency App Microservices](https://github.com/sandhiya1912/TravelAgencyMicroservices)  
 A Spring Boot microservices-based travel agency application built in Java and containerized with Docker.  
-**Tech Stack:**  ⚛️ React.js | 🌐 Node.js | ⚡ Express.js | 🍃 MongoDB | 📨 RabbitMQ | 🐳 Docker
+**Tech Stack:**  ☕ Java | 🌐 SpringBoot | 🍃 MongoDB  | 🐳 Docker
 
 ## 🧑‍🏫 Intern Projects
 
